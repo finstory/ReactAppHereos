@@ -1,0 +1,28 @@
+.first-appe {
+    overflow: scroll
+}
+
+
+@media (min-width: 768px) {
+
+    .card-size {
+        width: 690px;
+    }
+
+}
+
+@media (min-width: 768px) {
+
+
+
+    .text-title-size {
+        font-size: 40px;
+    }
+
+    .text-size {
+        font-size: 20px;
+    }
+}
+
+
+/* animate__animated animate__zoomInDown animate__faster */
